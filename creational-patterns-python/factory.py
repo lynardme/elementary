@@ -1,3 +1,8 @@
+""" Problem
+    1. Uncertainties in types of objects
+    2. decisions to be made at runtime regarding of what classes to use
+"""
+
 class Dog:
     """A simple dog class"""
     def __init__(self, name):
